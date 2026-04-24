@@ -7,21 +7,49 @@ redirect_from:
   - /about.html
 ---
 
+## Hi there! 👋
 
-Hi there! 👋 I am Leonardo Piano.
+I am **Leonardo Piano**, an Applied AI Researcher specialized in **Natural Language Processing (NLP)** and **Generative AI**.
 
-🧪 I am an Applied AI Scientist. I recently earned my Ph.D. in Computer Science from the University of Cagliari, where my research focused on NLP, Generative AI, and Information Extraction.
+I recently completed my Ph.D. at the **University of Cagliari**, where my research focused on the synergy between **Information Extraction** and **Large Language Models**.
 
-🎓 My academic journey included a visiting position in Norway at Telenor Research & Innovation 🇳🇴. To date, my research has led to 15+ peer-reviewed publications in top-tier AI conferences and journals.
+---
 
-My interests include:
+### 👨‍💻 Experience
 
-- 🛡️AI Safety : Red-Teaming & Development of Guardian Models.
+- Prior to my doctoral studies, I was a **Research Assistant** at the **Artificial Intelligence and Big Data Laboratory (AIBD)** at UniCa, Cagliari.  
 
-- 🕸️ Knowledge Engineering : Automated construction of Knowledge Graphs and Document Intelligence.
+---
 
-- 🏥 AI for Healthcare : AI-powered analysis of biomedical images and data.
+### 🔍 Research Interests
 
-- 👨‍💻 Prior to my doctoral studies, I was a Research Assistant at the Artificial Intelligence and Big Data Laboratory at UniCa, Cagliari.
+#### 🛡️ AI Safety
+My recent work focuses on making Generative AI safer and more transparent.  
+During a visiting research period at **Telenor Research & Innovation** (supported by the **EU ENFIELD project**), I worked on:
+
+- **Jailbreak Defense**  
+  Designing lightweight, inference-time defenses to protect models from adversarial attacks *(presented at ECML-PKDD 2025)*.
+
+- **Prompt Moderation**  
+  Developing a novel span-based moderation dataset covering 20+ harm categories, aimed at improving the auditability of AI safety pipelines.
+
+---
+
+#### 🕸️ Knowledge Engineering
+- Multilingual knowledge extraction  
+- Benchmarking and validation of a multilingual **Entity Linking** and **QA framework** for long-tail historical knowledge  
+- Fine-tuning Large Language Models for **schema-free Knowledge Extraction** (Open IE) in Italian  
+
+---
+
+#### 🏥 AI for Healthcare
+- Segmentation and classification of **breast cancer nodules** from ultrasound images  
+- Segmentation of **deep endometriosis lesions** from ultrasound  
+
+---
+
+
+
+
 
 
