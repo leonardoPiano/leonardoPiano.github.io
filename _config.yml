@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "it-Italy"
+locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Leonardo Piano"
 title_separator          : "-"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Leonardo Piano"
   pronouns         : # example: "she/her"  
-  bio              : "About Me"
+  bio              : "Contact"
   location         : "Cagliari"
   employer         : 
   uri              : # URL
