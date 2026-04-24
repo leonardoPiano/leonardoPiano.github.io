@@ -12,9 +12,10 @@ redirect_from:
 I am **Leonardo Piano**, an Applied AI Researcher specialized in **Natural Language Processing (NLP)** and **Generative AI**.
 
 I recently completed my Ph.D. at the **University of Cagliari**, where my research focused on the synergy between **Information Extraction** and **Large Language Models**.
-- Prior to my doctoral studies, I was a **Research Assistant** at the **Artificial Intelligence and Big Data Laboratory (AIBD)** at UniCa, Cagliari.  
 
----
+Prior to my doctoral studies, I was a **Research Assistant** at the **Artificial Intelligence and Big Data Laboratory (AIBD)** at UniCa, Cagliari.  
+
+
 
 ## 🔍 Research Interests
 
